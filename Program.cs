@@ -36,7 +36,7 @@ namespace play_with_struct
             Student[] students=new Student[10];
             Student s;
             s.RollNumber="1";
-            s.Name="Deepak Acharya";
+            s.Name="Deepak Acharya"; // commenting this will be error as all properties must be initialised before using it (line 42)
             Student s1= new Student("14IT210", "Deepak Acharya");
             students[0]=s;
         }
