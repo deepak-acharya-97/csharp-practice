@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\bin\Debug\netcoreapp2.1\play_with_struct.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\bin\Debug\netcoreapp2.1\play_with_struct.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\bin\Debug\netcoreapp2.1\play_with_struct.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\bin\Debug\netcoreapp2.1\play_with_struct.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\bin\Debug\netcoreapp2.1\play_with_struct.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct\obj\Debug\netcoreapp2.1\play_with_struct.pdb
